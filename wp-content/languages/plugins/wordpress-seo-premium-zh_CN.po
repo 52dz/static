@@ -1,0 +1,770 @@
+# Translation of Yoast - Yoast SEO Premium (for WordPress) in Chinese (China)
+# This file is distributed under the same license as the Yoast - Yoast SEO Premium (for WordPress) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-07 10:39:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Yoast - Yoast SEO Premium (for WordPress)\n"
+
+#: src/integrations/admin/user-profile-integration.php:87
+msgid "Gender"
+msgstr "性别"
+
+#: src/schema-templates/job-base-salary.block.php:39
+#: src/schema-templates/job-salary-range.block.php:39
+msgid "Currency"
+msgstr "货币"
+
+#: src/schema-templates/job-base-salary.block.php:40
+msgid "Value"
+msgstr "值"
+
+#: src/schema-templates/job-description.block.php:12
+msgid "Job description"
+msgstr "工作描述"
+
+#: src/schema-templates/job-employment-type.block.php:25
+msgid "Temporary"
+msgstr "临时"
+
+#: src/schema-templates/job-employment-type.block.php:35
+msgid "Employment"
+msgstr "就业"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Address"
+msgstr "地址"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Postal code"
+msgstr "邮编"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Region"
+msgstr "地区"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Country"
+msgstr "国家"
+
+#: src/schema-templates/job-location.block.php:15
+#: src/schema-templates/job-remote-location.block.php:12
+msgid "Remote job"
+msgstr "远程作业"
+
+#: src/integrations/admin/user-profile-integration.php:119
+msgid "Job title"
+msgstr "工作名称"
+
+#: classes/redirect/presenters/redirect-page-presenter.php:69
+msgid "Settings"
+msgstr "设置"
+
+#: classes/redirect/redirect-table.php:100
+msgid "Filter"
+msgstr "筛选"
+
+#: classes/premium-javascript-strings.php:61
+#: classes/redirect/redirect-table.php:411
+msgid "Edit"
+msgstr "编辑"
+
+#: classes/premium-javascript-strings.php:53
+#: assets/js/src/components/RedirectNotification.js:123
+#: assets/js/src/elementor/components/RedirectNotification.js:127
+msgid "OK"
+msgstr "好"
+
+#: classes/export/export-keywords-csv.php:67
+msgid "title"
+msgstr "标题"
+
+#: classes/export/export-keywords-csv.php:73
+msgid "meta description"
+msgstr "元描述"
+
+#: premium.php:297
+msgid "Create Redirect"
+msgstr "创建重定向规则"
+
+#: classes/redirect/redirect-formats.php:23 premium.php:361
+msgid "Redirects"
+msgstr "重定向规则"
+
+#: classes/redirect/views/redirects-form.php:59
+msgid "URL"
+msgstr "URL"
+
+#: classes/premium-import-manager.php:241
+msgid "Redirect import failed: the Redirection plugin is not installed or activated."
+msgstr "重定向规则导入失败：重定向插件未被安装或启用。"
+
+#: classes/premium-import-manager.php:317
+msgid "Redirect import failed: no redirects found."
+msgstr "重定向规则导入失败:未找到重定向规则。"
+
+#: classes/premium-javascript-strings.php:31
+msgid "You have unsaved redirects, are you sure you want to leave?"
+msgstr "您还没有保存重定向规则，真的要离开吗？"
+
+#: classes/redirect/redirect-table.php:115
+msgid "New URL"
+msgstr "新链接"
+
+#: classes/premium-javascript-strings.php:62
+#: classes/redirect/redirect-table.php:308
+#: classes/redirect/redirect-table.php:412
+msgid "Delete"
+msgstr "删除"
+
+#: classes/redirect/views/redirects-tab-plain.php:61
+#: classes/redirect/views/redirects-tab-regex.php:72
+msgid "Search"
+msgstr "搜索"
+
+#: classes/redirect/views/redirects-tab-settings.php:122
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: classes/redirect/redirect-formats.php:24
+msgid "Regex Redirects"
+msgstr "正则表达式重定向规则"
+
+#: classes/redirect/presenters/redirect-table-presenter.php:68
+msgid "Old URL"
+msgstr "旧的链接"
+
+#: classes/redirect/views/redirects-tab-plain.php:41
+#: classes/redirect/views/redirects-tab-regex.php:52
+msgid "Add Redirect"
+msgstr "添加重定向规则"
+
+#: classes/redirect/views/redirects-tab-settings.php:50
+msgid "As you're on Nginx, you should add the following include to the Nginx config file:"
+msgstr "由于您的网站运行在NGINX上，您应该将下面的代码添加到您网站的Nginx配置文件中:"
+
+#: classes/redirect/views/redirects-tab-settings.php:24
+msgid "As you're on Apache, you should add the following include to the website httpd config file:"
+msgstr "由于您的网站运行在Apache上，您应该将下面的代码添加到您网站的httpd 配置文件中:"
+
+#. Description of the plugin
+msgid "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more."
+msgstr "WordPress首个多功能SEO解决方案，包括页面内容分析，XML站点地图等等。"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:76
+#: assets/js/src/workouts/components/CornerstoneWorkout/MostLinked.js:98
+msgid "Type"
+msgstr "类型"
+
+#: classes/redirect/views/redirects-tab-settings.php:111
+msgid "Generate a separate redirect file"
+msgstr "生成单独的重定向文件"
+
+#: classes/redirect/redirect-page.php:140
+msgid "Redirects per page"
+msgstr "每页的重定向"
+
+#: classes/views/import-redirects.php:74
+msgid "Import .htaccess"
+msgstr "导入.htaccess"
+
+#: classes/premium-javascript-strings.php:26
+msgid "The old URL field can't be empty."
+msgstr "旧的URL栏不能为空。"
+
+#: classes/premium-javascript-strings.php:28
+msgid "The new URL field can't be empty."
+msgstr "新的URL栏不能为空。"
+
+#: classes/premium-javascript-strings.php:29
+msgid "Error while saving this redirect"
+msgstr "保存重定向规则中出错"
+
+#: classes/premium-javascript-strings.php:30
+msgid "New type can't be empty."
+msgstr "新类型不能为空。"
+
+#. Author of the plugin
+msgid "Team Yoast"
+msgstr "Yoast团队"
+
+#: classes/premium-javascript-strings.php:25
+msgid "You can't redirect a URL to itself."
+msgstr "你不能重定向url到它本身"
+
+#. translators: %s: '.htaccess' file name
+#: classes/redirect/views/redirects-tab-settings.php:114
+msgid "By default we write the redirects to your %s file, check this if you want the redirects written to a separate file. Only check this option if you know what you are doing!"
+msgstr "默认状态下我们写入重定向到你的 %s 文件，选中这里如果你想让重定向写入到一个单独的文件。只选中你知道的设置。"
+
+#: classes/redirect/presenters/redirect-table-presenter.php:65
+msgid "Regular Expression"
+msgstr "规则表达"
+
+#. translators: 1: '.htaccess' file name
+#: classes/redirect/views/redirects-tab-settings.php:109
+msgid "Write redirects to the %1$s file. Make sure the %1$s file is writable."
+msgstr "写入重定向到 %1$s 文件，确认 %1$s 文件是可写的"
+
+#. translators: %s: '.htaccess' file name
+#: classes/views/import-redirects.php:12
+msgid "Import redirects from %s"
+msgstr "从%s导入重定向"
+
+#: classes/premium-javascript-strings.php:27
+msgid "The Regular Expression field can't be empty."
+msgstr "规则表达区域可以留空"
+
+#. translators: %s is replaced with the URL that will be deleted.
+#: classes/premium-javascript-strings.php:34
+msgid "Please enter the new URL for %s"
+msgstr "行输入新的url给%s"
+
+#. translators: variables will be replaced with from and to URLs.
+#: classes/premium-javascript-strings.php:36
+msgid "Redirect created from %1$s to %2$s!"
+msgstr "重定向被建立从 %1$s 到 %2$s !"
+
+#: classes/redirect/redirect-table.php:113
+#: classes/redirect/views/redirects-form.php:22
+msgctxt "noun"
+msgid "Type"
+msgstr "类型"
+
+#. translators: %1$s: '.htaccess' file name, %2$s: plugin name
+#: classes/views/import-redirects.php:18
+msgid "You can copy the contents of any %1$s file in here, and it will import the redirects into %2$s."
+msgstr "你可以复制任何 %1$s 文件的内容到这里，并且它将会导入重定向到 %2$s"
+
+#: classes/premium-javascript-strings.php:41
+msgid "Redirect added."
+msgstr "重定向加入"
+
+#: classes/premium-javascript-strings.php:42
+msgid "The redirect was added successfully."
+msgstr "重定向加入成功"
+
+#: classes/premium-javascript-strings.php:45
+msgid "Redirect updated."
+msgstr "重定向已更新"
+
+#: classes/premium-javascript-strings.php:46
+msgid "The redirect was updated successfully."
+msgstr "重定向更新成功"
+
+#: classes/premium-javascript-strings.php:49
+#: classes/premium-redirect-service.php:51
+#: classes/redirect-undo-endpoint.php:94
+msgid "Redirect deleted."
+msgstr "重定向已删除"
+
+#: classes/premium-javascript-strings.php:50
+#: classes/premium-redirect-service.php:52
+#: classes/redirect-undo-endpoint.php:95
+msgid "The redirect was deleted successfully."
+msgstr "重定向删除成功"
+
+#: classes/premium-javascript-strings.php:54
+#: classes/redirect/views/redirects-quick-edit.php:43
+msgid "Cancel"
+msgstr "取消"
+
+#: classes/premium-javascript-strings.php:55
+msgid "Save"
+msgstr "保存"
+
+#: classes/premium-javascript-strings.php:56
+msgid "Save anyway"
+msgstr "仍然要保存"
+
+#: classes/premium-javascript-strings.php:58
+#: classes/redirect/views/redirects-quick-edit.php:22
+msgid "Edit redirect"
+msgstr "编辑重定向"
+
+#: classes/premium-javascript-strings.php:59
+msgid "You are already editing a redirect, please finish this one first"
+msgstr "你已经编辑了一个重定向，请完成这个先。"
+
+#: classes/redirect/validation/redirect-accessible-validation.php:29
+msgid "The URL you entered could not be resolved."
+msgstr "你输入的url不能被判断。"
+
+#. translators: %1$s expands to the returned http code
+#: classes/redirect/validation/redirect-accessible-validation.php:40
+msgid "The URL you are redirecting to seems to return a %1$s status. You might want to check if the target can be reached manually before saving."
+msgstr "你重定向的url似乎返回一个%1$s 状态。你可能要在保存前确认目标是否可以手动到达。"
+
+#: classes/redirect/validation/redirect-accessible-validation.php:49
+msgid "You're redirecting to a target that returns a 301 HTTP code (permanently moved). Make sure the target you specify is directly reachable."
+msgstr "你输入的重定向返回一个301http代码（永久转移），请确认你指定的目标是直接可到达的。"
+
+#. translators: %1$s expands to the returned http code
+#: classes/redirect/validation/redirect-accessible-validation.php:57
+msgid "The URL you entered returned a HTTP code different than 200(OK). The received HTTP code is %1$s."
+msgstr "你输入的url返回一个http 代码 与200（ok）不同。收到的http代码为%1$s。"
+
+#: classes/redirect/redirect-ajax.php:65
+msgid "Unknown error. Failed to create redirect."
+msgstr "未知错误。 建立重定向失败。"
+
+#: classes/redirect/redirect-ajax.php:99
+msgid "Unknown error. Failed to update redirect."
+msgstr "未知错误。更新重定向失败"
+
+#: classes/redirect/validation/redirect-endpoint-validation.php:40
+msgid "The redirect you are trying to save will create a redirect loop. This means there probably already exists a redirect that points to the origin of the redirect you are trying to save"
+msgstr "你保存的重定向将要建立一个重定向循环。这意味着这可能已经存在一个重定向，这个重定向指向一个你正在保存的原始重定向"
+
+#. translators: %1$s: will be the target, %2$s: will be the found endpoint.
+#: classes/redirect/validation/redirect-endpoint-validation.php:48
+msgid "%1$s will be redirected to %2$s. Maybe it's worth considering to create a direct redirect to %2$s."
+msgstr "%1$s 将要被重定向到 %2$s .或许可以考虑建立一个重定向到 %2$s。"
+
+#. translators: %s expands to the file path that we tried to write to
+#: classes/redirect/redirect-file-util.php:86
+msgid "We're unable to write data to the file %s"
+msgstr "我们不能写入数据到文件%s"
+
+#: classes/redirect/redirect-types.php:26
+msgid "301 Moved Permanently"
+msgstr "301 永久转移"
+
+#: classes/redirect/redirect-types.php:27
+msgid "302 Found"
+msgstr "302被发现"
+
+#: classes/redirect/redirect-types.php:28
+msgid "307 Temporary Redirect"
+msgstr "307临时重定向"
+
+#: classes/redirect/redirect-types.php:29
+msgid "410 Content Deleted"
+msgstr "410内容删除"
+
+#: classes/redirect/redirect-types.php:30
+msgid "451 Unavailable For Legal Reasons"
+msgstr "451  法规问题不可用"
+
+#: classes/redirect/validation/redirect-presence-validation.php:34
+msgid "Not all the required fields are filled."
+msgstr "必要区域为填写"
+
+#: classes/redirect/validation/redirect-uniqueness-validation.php:32
+msgid "The old URL already exists as a redirect."
+msgstr "旧url已经以重定向方式存在"
+
+#: classes/redirect/views/redirects-quick-edit.php:42
+msgid "Update Redirect"
+msgstr "更新重定向"
+
+#. translators: %s expands to the folder location where the redirects fill will
+#. be saved.
+#: classes/redirect/views/redirects-tab-settings.php:63
+msgid "We're unable to save the redirect file to %s"
+msgstr "我们不能保存重定向文件到 %s"
+
+#. translators: %1$s will be replaced with the from URL.
+#: classes/premium-javascript-strings.php:38
+msgid "410 Redirect created from %1$s!"
+msgstr "410重定向从 %1$s建立！"
+
+#: classes/watcher.php:282
+msgid "Redirect it to another URL"
+msgstr "重定向到另外一个url"
+
+#: classes/watcher.php:283
+msgid "Make it serve a 410 Content Deleted header"
+msgstr "使它服务于一个410内容删除头文件"
+
+#: classes/redirect/views/redirects-tab-settings.php:101
+msgid "Web server"
+msgstr "web服务器"
+
+#: classes/redirect/views/redirects-tab-settings.php:103
+msgid "Redirect method"
+msgstr "重定向方法"
+
+#. translators: %s: 'Yoast SEO Premium'
+#: classes/redirect/views/redirects-tab-settings.php:118
+msgid "%s can generate redirect files that can be included in your website web server configuration. If you choose this option the PHP redirects will be disabled. Only check this option if you know what you are doing!"
+msgstr "%s 可以产生一个重定向文件，这个文件被引入在你的网页服务器设置里。如果你选择这个选项，php 重定向将会被禁用，请之选中你的清楚的选项。"
+
+#. translators: %s expands to the file path that we tried to write to
+#: classes/redirect/redirect-file-util.php:44
+msgid "We're unable to create the directory %s"
+msgstr "我们无法建立目录 %s"
+
+#: classes/redirect/validation/redirect-self-redirect-validation.php:25
+msgid "You are attempting to redirect to the same URL as the origin. Please choose a different URL to redirect to."
+msgstr "你尝试重定向的URL与之前的相同。请选择一个不同的URL进行重定向。"
+
+#. translators: 1: opens a link to a related help center article. 2: closes the
+#. link.
+#: classes/redirect/views/redirects-form.php:42
+msgid "The redirect type is the HTTP response code sent to the browser telling the browser what type of redirect is served. %1$sLearn more about redirect types%2$s."
+msgstr "重定向类型的HTTP响应代码发送给浏览器，告诉浏览器什么类型的重定向送达。 %1$s了解更多关于重定向类型 %2$s."
+
+#. translators: 1: opens a link to a related help center article. 2: closes the
+#. link.
+#: classes/redirect/views/redirects-tab-regex.php:30
+msgid "Regular Expression (regex) Redirects are extremely powerful redirects. You should only use them if you know what you are doing. %1$sRead more about regex redirects on our help center%2$s."
+msgstr "正则表达式（regex）重定向是非常强大的重定向。你应该明确地知道你在做什么的时候再使用它们。%1$s在我们的知识库中查看更多有关regex重定向的信息%2$s。"
+
+#: premium.php:397
+msgid "Enabled"
+msgstr "启用"
+
+#: classes/views/import-redirects.php:72
+msgid "Enter redirects to import"
+msgstr "输入要导入的重定向"
+
+#. translators: %1$s expands to the subdirectory WordPress is installed.
+#: classes/redirect/validation/redirect-subdirectory-validation.php:37
+msgid "Your redirect is missing the subdirectory where WordPress is installed in. This will result in a redirect that won't work. Make sure the redirect starts with %1$s"
+msgstr "您的重定向缺少安装WordPress的子目录。这将导致重定向无法工作。确保重定向以。开头 %1$s"
+
+#: classes/redirect/redirect-table.php:249
+msgid "Select this redirect"
+msgstr "选择此重定向"
+
+#. translators: %s expands to Yoast
+#: classes/metabox-link-suggestions.php:101
+msgid "%s internal linking"
+msgstr "%s 内部链接"
+
+#. translators: %s: '.htaccess' file name
+#: classes/premium-import-manager.php:67 classes/views/import-redirects.php:45
+msgid "Import redirects"
+msgstr "导入重定向"
+
+#: classes/views/import-redirects.php:25
+msgid "Redirection"
+msgstr "重定向"
+
+#: classes/views/import-redirects.php:26
+msgid "Safe Redirect Manager"
+msgstr "安全重定向管理器"
+
+#: classes/views/import-redirects.php:27
+msgid "Simple 301 Redirects"
+msgstr "简单301重定向"
+
+#: classes/views/import-redirects.php:38
+msgid "Import from other redirect plugins"
+msgstr "从其他重定向插件导入"
+
+#: classes/views/import-redirects.php:42
+msgid "Import from:"
+msgstr "导入:"
+
+#: classes/watcher.php:253
+msgid "New URL:"
+msgstr "新URL地址："
+
+#: classes/watcher.php:251
+msgid "Old URL:"
+msgstr "旧链接地址："
+
+#: classes/premium-redirect-export-manager.php:31
+#: classes/views/export-redirects.php:15
+msgid "Export redirects"
+msgstr "导出重定向"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:74
+msgid "Origin"
+msgstr "源"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:75
+msgid "Target"
+msgstr "目标"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:77
+msgid "Format"
+msgstr "格式"
+
+#: classes/views/export-redirects.php:10
+msgid "Export redirects to a CSV file"
+msgstr "将重定向导出为一个CSV文件"
+
+#: classes/views/export-redirects.php:11
+msgid "If you need to have a list of all redirects, you can generate a CSV file using the button below."
+msgstr "假如你需要所有的重定向列表，你可以使用下面的按钮来生成一个CSV文件"
+
+#: classes/views/export-redirects.php:12
+msgid "Please note that the first row in this file is a header. This row should be ignored when parsing or importing the data from the export."
+msgstr "请注意该文件的第一行是一个头部信息，当从导出数据分析或导入数据时该行应被忽略。"
+
+#: classes/premium-import-manager.php:275
+msgid "CSV import failed: the provided file could not be parsed using a CSV parser."
+msgstr "CSV导入失败：提供的文件无法被CSV解析器解析"
+
+#: classes/views/import-redirects.php:52
+msgid "Import from a CSV file"
+msgstr "从一个CSV文件导入"
+
+#: classes/views/import-redirects.php:59
+msgid "Import CSV file"
+msgstr "导入CSV文件"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: <a href='{undo_redirect_url}'>,
+#. %3$s: </a>, %4$s: Slug to post
+#: classes/post-watcher.php:295
+msgid "%1$s detected that you restored a post (%4$s) from the trash, for which a redirect was created. %2$sClick here to remove the redirect%3$s"
+msgstr "%1$s检测到你从回收站中恢复了一篇文章 (%4$s) ，一个重定向已经生成。%2$s点击这里来移除重定向%3$s"
+
+#. translators: %1$s expands to the link to an article to read more about
+#. orphaned content, %2$s expands to </a>
+#: classes/premium-orphaned-post-filter.php:54
+msgid "%1$sLearn more about orphaned content%2$s."
+msgstr "%1$s了解更多有关孤立内容%2$s。"
+
+#. translators: %1$s: plural form of the current post type, %2$s: a Learn more
+#. about link
+#: classes/premium-orphaned-post-filter.php:62
+msgid "Ask your SEO Manager or Site Administrator to count links in all texts, so we can identify orphaned %1$s. %2$s"
+msgstr "要求你的SEO管理员或网站管理员对所有文本中的链接计数，我们可以辨别出孤立内容%1$s. %2$s"
+
+#. translators: %1$s expands to link to the recalculation option, %2$s: anchor
+#. closing, %3$s: plural form of the current post type, %4$s: a Learn more
+#. about link
+#: classes/premium-orphaned-post-filter.php:71
+msgid "%1$sClick here%2$s to index your links, so we can identify orphaned %3$s. %4$s"
+msgstr "%1$s点击这里%2$s来索引你的链接，这样我们可以辨别出孤立内容%3$s. %4$s"
+
+#: classes/premium-orphaned-post-filter.php:140
+#: assets/js/src/workouts/components/OrphanedWorkout.js:88
+msgid "Orphaned content"
+msgstr "孤立内容"
+
+#: classes/export/export-keywords-csv.php:68
+msgid "url"
+msgstr "url地址"
+
+#: classes/export/export-keywords-csv.php:69
+msgid "readability score"
+msgstr "可读性评分"
+
+#: classes/export/export-keywords-csv.php:76
+msgid "ID"
+msgstr "ID"
+
+#: classes/redirect/redirect-table.php:84
+msgid "Filter by redirect type"
+msgstr "以重定向类型筛选"
+
+#: classes/redirect/redirect-table.php:86
+msgid "All redirect types"
+msgstr "所有重定向类型"
+
+#. translators: %s resolves to the button label translation.
+#: classes/views/export-keywords.php:12
+msgid "If you need a list of all public posts, terms and related keyphrases, you can generate a CSV file using the %s button below."
+msgstr "如果你需要一个所有公开文章、分类和相关关键短语的列表，你可以使用下面的%s按钮生成一个CSV文件"
+
+#: classes/views/export-keywords.php:21
+msgid "Export keyphrases to a CSV file"
+msgstr "将关键短语导出为一个CSV文件"
+
+#: classes/views/export-keywords.php:23
+msgid "You can add or remove columns to be included in the export using the checkboxes below."
+msgstr "你可以使用下面的复选框来添加或删除导出中的列"
+
+#: classes/views/export-keywords.php:31
+msgid "Export URL"
+msgstr "导出URL地址"
+
+#: classes/views/export-keywords.php:32
+msgid "Export title"
+msgstr "导出标题"
+
+#: classes/views/export-keywords.php:35
+msgid "Export readability score"
+msgstr "导出可读性分数"
+
+#: classes/views/export-keywords.php:49
+msgid "Please note:"
+msgstr "请注意："
+
+#: classes/views/export-keywords.php:51
+msgid "The first row in this file is the header row. This row should be ignored when parsing or importing the data from the export."
+msgstr "该文件中的第一行是头部行。在从导出数据解析或导入时，应该忽略这一行。"
+
+#: classes/views/export-keywords.php:52
+msgid "Exporting data can take a long time when there are many posts, pages, public custom post types or terms."
+msgstr "当存在太多文章、页面、自定义文章类型或分类时，导出数据将花费很长时间"
+
+#: classes/redirect/views/redirects-tab-plain.php:25
+msgid "Plain redirects"
+msgstr "普通重定向"
+
+#: classes/redirect/views/redirects-tab-regex.php:25
+msgid "Regular Expression redirects"
+msgstr "正则表达式重定向"
+
+#: classes/redirect/views/redirects-tab-settings.php:76
+msgid "Redirects settings"
+msgstr "重定向设置"
+
+#: classes/export/export-keywords-csv.php:77
+msgctxt "post_type of a post or the taxonomy of a term"
+msgid "type"
+msgstr "类别"
+
+#: classes/export/export-keywords-csv.php:72
+msgid "seo title"
+msgstr "seo标题"
+
+#: classes/views/export-keywords.php:33
+msgid "Export SEO title"
+msgstr "导出SEO标题"
+
+#: classes/views/export-keywords.php:34
+msgid "Export meta description"
+msgstr "导出元信息描述"
+
+#: classes/export/export-keywords-csv.php:70
+msgid "keyphrase"
+msgstr "关键字段"
+
+#: classes/export/export-keywords-csv.php:71
+msgid "keyphrase score"
+msgstr "关键字段得分"
+
+#: classes/premium-keyword-export-manager.php:40
+#: classes/views/export-keywords.php:8
+msgid "Export keyphrases"
+msgstr "导出关键字段"
+
+#: classes/views/export-keywords.php:30
+msgid "Export keyphrase scores"
+msgstr "导出关键字段分数"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://yoa.st/2jc"
+msgstr "https://yoa.st/2jc"
+
+#. Plugin Name of the plugin
+msgid "Yoast SEO Premium"
+msgstr "Yoast SEO 高级版"
+
+#. translators: 1: link to redirects overview, 2: closing link tag
+#: classes/premium-import-manager.php:192
+msgid "All redirects have been imported successfully. Go to the %1$sredirects overview%2$s to see the imported redirects."
+msgstr "所有的重定向已经成功导入。前往%1$s重定向 预览%2$s所有导入的重定向"
+
+#. translators: 1: link to redirects overview, 2: closing link tag
+#: classes/premium-import-manager.php:201
+msgid "No redirects have been imported. Probably they already exist as a redirect. Go to the %1$sredirects overview%2$s to see the existing redirects."
+msgstr "没有任何重定向导入。大概他们已经存在。前往%1$s重定向 预览%2$s已经存在的重定向"
+
+#. translators: 1: amount of imported redirects, 2: total amount of redirects,
+#. 3: link to redirects overview, 4: closing link tag
+#: classes/premium-import-manager.php:209
+msgid "Imported %1$s/%2$s redirects successfully. Go to the %3$sredirects overview%4$s to see the imported redirect."
+msgid_plural "Imported %1$s/%2$s redirects successfully. Go to the %3$sredirects overview%4$s to see the imported redirects."
+msgstr[0] "%1$s/%2$s 重定向导入成功。到%3$s”重定向预览“%4$s中查看已经导入的重定向。"
+
+#: classes/premium-import-manager.php:251
+msgid "Redirect import failed: the selected redirect plugin is not installed or activated."
+msgstr "重定向导入失败：选择的重定向插件没有安装或者激活"
+
+#: classes/premium-import-manager.php:269
+msgid "CSV import failed: No file selected."
+msgstr "CSV导入失败：没有选择文件"
+
+#. translators: 1: The maximum file size
+#: classes/premium-import-manager.php:283
+msgid "CSV import failed: the provided file is larger than %1$s."
+msgstr "CSV导入失败：导入的文件大于%1$s。"
+
+#: classes/premium-import-manager.php:290
+msgid "CSV import failed: the provided file is not a CSV file."
+msgstr "CSV导入失败：提供文件不是CSV文件格式"
+
+#: classes/premium-import-manager.php:309
+msgid "Redirect import failed: we can't recognize this type of import."
+msgstr "重定向导入失败：我们不能识别导入内容的种类"
+
+#: classes/premium-stale-cornerstone-content-filter.php:51
+msgid "Stale cornerstone content"
+msgstr "劣质内容"
+
+#. translators: %s expands to the posttype label, %2$s expands anchor to blog
+#. post about cornerstone content, %3$s expands to </a>
+#: classes/premium-stale-cornerstone-content-filter.php:68
+msgid "Stale cornerstone content refers to cornerstone content that hasn’t been updated in the last 6 months. Make sure to keep these %1$s up-to-date. %2$sLearn more about cornerstone content%3$s."
+msgstr "劣质内容筛选器中的劣质内容是指过去六个月内没有更新的内容。确保保持这些  %1$s 适时更新。%2$s学习更多关于劣质内容的信息%3$s。"
+
+#: classes/views/import-redirects.php:56
+msgid "Choose a CSV file from your computer:"
+msgstr "从您的计算机选择一个CSV文件"
+
+#: classes/watcher.php:264 assets/js/src/components/RedirectNotification.js:133
+#: assets/js/src/elementor/components/RedirectNotification.js:133
+msgid "Undo"
+msgstr "撤销"
+
+#: classes/premium-redirect-service.php:60
+#: classes/redirect-undo-endpoint.php:83 classes/redirect-undo-endpoint.php:103
+msgid "Redirect not deleted."
+msgstr "重定向未删除"
+
+#: classes/premium-redirect-service.php:61
+#: classes/redirect-undo-endpoint.php:84 classes/redirect-undo-endpoint.php:104
+msgid "Something went wrong when deleting this redirect."
+msgstr "删除这个重定向时发生错误"
+
+#: classes/redirect/validation/redirect-relative-origin-validation.php:27
+msgid "The old URL for your redirect is not relative. Only the new URL is allowed to be absolute. Make sure to provide a relative old URL."
+msgstr "您需要重新定向的旧链接并不相关。只有新链接可以使用绝对URL。确定您提供的旧链接为相对URL。"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s and %3$s expand to a link to the
+#. admin page.
+#: classes/post-watcher.php:471
+msgid "%1$s created a %2$sredirect%3$s from the old post URL to the new post URL."
+msgstr "%1$s 生成一个 %2$s 重定向 %3$s 从旧文章链接指向新文章链接"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s and %3$s expand to a link to the
+#. admin page.
+#: classes/term-watcher.php:275
+msgid "%1$s created a %2$sredirect%3$s from the old term URL to the new term URL."
+msgstr "%1$s 生成一个 %2$s 重定向 %3$s 从旧链接指向新链接"
+
+#: classes/watcher.php:258
+msgid "Ok"
+msgstr "好的"
+
+#. translators: %s: Zapier.
+#: src/integrations/third-party/zapier.php:123
+msgid "Go to your %s Dashboard"
+msgstr "转到你的%s仪表盘"
+
+#. translators: 1: Zapier, 2: The Zapier API Key.
+#: src/integrations/third-party/zapier.php:128
+msgid "%1$s uses this API Key: %2$s"
+msgstr "%1$s使用这个API Key：%2$s"
+
+#: src/integrations/third-party/zapier.php:132
+msgid "Reset API Key"
+msgstr "重置API Key"
+
+#. translators: %s: Zapier.
+#: src/integrations/third-party/zapier.php:171
+msgid "%s will ask for an API key. Use this one:"
+msgstr "%s需要一个API key，使用这个："
+
+#: src/integrations/third-party/zapier.php:177
+msgid "Copy to clipboard"
+msgstr "复制到剪贴板"
+
+#. translators: 1: Yoast SEO, 2: Zapier.
+#: src/integrations/third-party/zapier.php:112
+msgid "%1$s is successfully connected to %2$s!"
+msgstr "%1$s 成功连接到 %2$s!"
